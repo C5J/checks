@@ -1,1 +1,1 @@
-website: farted.gq
+website: checks.lol
